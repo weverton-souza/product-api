@@ -14,5 +14,5 @@ Os testes podem ser iniciados e visualizados através da lib Jacoco usando-se os
 
 > mvn jacoco:report
 
-Com esse segundo comando um diretório com nome de "site" será criado na pasta target, após acessá-la clique em index.html. Na página que se abrirá será possível visualizar os testes e quais classes e métodos estão sendo cobridos por eles.
+Com esse segundo comando um diretório com nome de "site" será criado na pasta target, após acessá-la clique em index.html. Na página que se abrirá será possível visualizar os testes e quais classes e métodos estão sendo cobridos por eles, bem como a percentagem de cobertura.
 
