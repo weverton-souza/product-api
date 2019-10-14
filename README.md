@@ -1,4 +1,5 @@
-# Uma simples aplicação de cadastro de usuários, produtos e suas respectivas categorias.
+# A Aplicação
+### Uma simples aplicação de cadastro de usuários, produtos e suas respectivas categorias.
 
 ## Swagger
 A aplicação conta com swagger configurado podendo ser acessado através da url: 
