@@ -1,0 +1,31 @@
+{
+  "groups": [
+  ],
+  "properties": [
+    {
+      "name": "product.jwt.secret",
+      "type": "java.lang.String",
+      "description": "Description for product.jwt.secret."
+    },
+    {
+      "name": "product.jwt.expiration",
+      "type": "java.lang.String",
+      "description": "Description for product.jwt.expiration."
+    },
+    {
+      "name": "product.read-timeout",
+      "type": "java.lang.String",
+      "description": "Description for product.read-timeout."
+    },
+    {
+      "name": "product.viacep-service-url",
+      "type": "java.lang.String",
+      "description": "Description for product.viacep-service-url."
+    },
+    {
+      "name": "product.restcountries-service-countries-url",
+      "type": "java.lang.String",
+      "description": "Description for product.restcountries-service-countries-url."
+    }
+  ]
+}
