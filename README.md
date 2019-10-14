@@ -1,4 +1,4 @@
-# A Aplicação
+# Produto API
 ### Uma simples aplicação de cadastro de usuários, produtos e suas respectivas categorias.
 
 ## Swagger
