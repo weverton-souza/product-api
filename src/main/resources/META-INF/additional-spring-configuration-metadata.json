@@ -26,6 +26,11 @@
       "name": "product.restcountries-service-countries-url",
       "type": "java.lang.String",
       "description": "Description for product.restcountries-service-countries-url."
+    },
+    {
+      "name": "product.connect-timeout",
+      "type": "java.lang.String",
+      "description": "Description for product.connect-timeout."
     }
   ]
 }
